@@ -1,0 +1,6 @@
+sakib		123123		2530		sakibsakib
+tamim		202020		5600		tamimtamim
+farid		565656		5000		faridfarid
+hamim		676767		2000		hamimhamim
+polo		112233		3000		polopolo
+farid		000999		4000		123456
